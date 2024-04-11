@@ -1,6 +1,6 @@
 # Evaluation Dashboard App - Mentor View
 This is a Flutter web application designed as a mentor-view solution for evaluating students during a semester-long project in college.
-The app is hosted [here](https://scaler-assignment-two.vercel.app/).
+The app is hosted [here](https://test-hosting-five.vercel.app/).
 
 ## Description
 
